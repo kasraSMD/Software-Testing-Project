@@ -1,0 +1,15 @@
+Total mutation number : 35
+Number of live mutations : 6
+Number of killed mutations : 18
+Number of stillborn mutations : 11
+
+The Mutation Score : 82.85714285714286
+
+Live mutations files name :
+['16 mutation5 for Assigns To BitwiseXOR (Line_6 Index_12).py', '20 mutation9 for Assigns To BitwiseOR (Line_6 Index_12).py', '21 mutation10 for Assigns To Adds (Line_6 Index_12).py', '27 mutation4 for Assigns To BitwiseOR (Line_7 Index_17).py', '31 mutation8 for Assigns To BitwiseXOR (Line_7 Index_17).py', '32 mutation9 for Assigns To Adds (Line_7 Index_17).py']
+
+Killed mutations files name :
+['12 mutation1 for Assigns To BitwiseRightShift (Line_6 Index_12).py', '13 mutation2 for Assigns To BitwiseLeftShift (Line_6 Index_12).py', '14 mutation3 for Assigns To FloorDivision (Line_6 Index_12).py', '15 mutation4 for Assigns To BitwiseAND (Line_6 Index_12).py', '17 mutation6 for Assigns To Multiplies (Line_6 Index_12).py', '18 mutation7 for Assigns To Divides (Line_6 Index_12).py', '19 mutation8 for Assigns To Modulus (Line_6 Index_12).py', '22 mutation11 for Assigns To Exponentiation (Line_6 Index_12).py', '23 mutation12 for Assigns To Subtracts (Line_6 Index_12).py', '24 mutation1 for Assigns To Subtracts (Line_7 Index_17).py', '25 mutation2 for Assigns To BitwiseLeftShift (Line_7 Index_17).py', '26 mutation3 for Assigns To BitwiseAND (Line_7 Index_17).py', '28 mutation5 for Assigns To Modulus (Line_7 Index_17).py', '29 mutation6 for Assigns To FloorDivision (Line_7 Index_17).py', '30 mutation7 for Assigns To Exponentiation (Line_7 Index_17).py', '33 mutation10 for Assigns To BitwiseRightShift (Line_7 Index_17).py', '34 mutation11 for Assigns To Divides (Line_7 Index_17).py', '35 mutation12 for Assigns To Multiplies (Line_7 Index_17).py']
+
+Stillborn mutations files name :
+['1 mutation1 for Assigns To Divides (Line_4 Index_12).py', '2 mutation2 for Assigns To BitwiseLeftShift (Line_4 Index_12).py', '3 mutation3 for Assigns To BitwiseAND (Line_4 Index_12).py', '4 mutation4 for Assigns To BitwiseRightShift (Line_4 Index_12).py', '5 mutation5 for Assigns To BitwiseXOR (Line_4 Index_12).py', '6 mutation1 for Assigns To Divides (Line_5 Index_17).py', '7 mutation2 for Assigns To Modulus (Line_5 Index_17).py', '8 mutation3 for Assigns To BitwiseOR (Line_5 Index_17).py', '9 mutation4 for Assigns To Adds (Line_5 Index_17).py', '10 mutation5 for Assigns To Subtracts (Line_5 Index_17).py', '11 mutation6 for Assigns To BitwiseLeftShift (Line_5 Index_17).py']
